@@ -3,7 +3,7 @@ import pyautogui
 from os import system
 from time import sleep
 
-# El cliente tiene que estar en 1336 x 768 y en español
+# El cliente tiene que estar en 1024 x 576 y en español
 
 
 def click(x,y) -> None:
