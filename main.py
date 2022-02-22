@@ -41,7 +41,7 @@ def check_if_cancel(img_path: str) -> bool:
 
 def check_if_dodge(img_path: str) -> bool:
     dodged: bool = False
-    sec: int = 130
+    sec: int = 155
 
     while (not dodged and sec >= 1):
         system('cls')
